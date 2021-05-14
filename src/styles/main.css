@@ -1,0 +1,30 @@
+body {
+    padding-left: 2rem;
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 2rem;
+}
+
+.requestForm {
+    margin-top: 2rem;
+}
+
+.serviceRequests {
+    margin-top: 5rem;
+}
+
+ul {
+    padding-left: 0;
+    margin-bottom: 0.5rem;
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    margin-bottom: 1.5rem;
+}
